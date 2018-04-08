@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{558739B6-DF82-02D9-A541-5BE3BA7BD490}|">
   <MonoDevelop.Ide.ItemProperties.Quaternion_220Quest PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerOW.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InkTest.cs">
     <Files>
       <File FileName="../../../NJIT/Fall 2017/Micro Jam/Defenseless/Scripts/Player.cs" Line="21" Column="34" />
       <File FileName="Assets/Scripts/PlayerOW.cs" Line="63" Column="14" />
       <File FileName="../../../NJIT/Fall 2017/IT485 - Rigging and Animation/IT485003-FantasyRPG 1/Assets/IT485003/SCRIPTS/PlayerController3D.cs" Line="37" Column="39" />
+      <File FileName="Assets/Plugins/Ink/Example/Scripts/BasicInkExample.cs" Line="72" Column="1" />
+      <File FileName="Assets/Scripts/InkTest.cs" Line="45" Column="65" />
+      <File FileName="Assets/Scripts/Battle.cs" Line="6" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

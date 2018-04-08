@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inkLibrary:
   - compileAutomatically: 0
-    inkAsset: {fileID: 102900000, guid: 21ab9207411b547d09ed3f0038b4a6f0, type: 3}
+    inkAsset: {fileID: 102900000, guid: 6039a274303cb4776bb95ab360ad208d, type: 3}
     jsonAssetPath: {fileID: 0}
     jsonAsset: {fileID: 4900000, guid: 4613b563563d54ac7951e1258f6d198a, type: 3}
   - compileAutomatically: 0

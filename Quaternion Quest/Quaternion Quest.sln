@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quaternion Quest", "Quaternion Quest.csproj", "{558739B6-DF82-02D9-A541-5BE3BA7BD490}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quaternion Quest.Plugins", "Quaternion Quest.Plugins.csproj", "{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quaternion Quest.Editor.Plugins", "Quaternion Quest.Editor.Plugins.csproj", "{466F1B64-BFD7-FF67-EC8E-DE1489EB53F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{558739B6-DF82-02D9-A541-5BE3BA7BD490}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558739B6-DF82-02D9-A541-5BE3BA7BD490}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558739B6-DF82-02D9-A541-5BE3BA7BD490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466F1B64-BFD7-FF67-EC8E-DE1489EB53F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466F1B64-BFD7-FF67-EC8E-DE1489EB53F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466F1B64-BFD7-FF67-EC8E-DE1489EB53F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466F1B64-BFD7-FF67-EC8E-DE1489EB53F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

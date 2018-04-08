@@ -319,9 +319,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Quaternion Quest.Plugins.csproj">
+      <Project>{F396FE8C-6FA5-78CE-FC0D-CA8D58307289}</Project>
+      <Name>Quaternion Quest.Plugins</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\Battle.cs" />
+    <Compile Include="Assets\Scripts\InkTest.cs" />
     <Compile Include="Assets\Scripts\PlayerOW.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Plugins\Ink\Editor\Resources\InkDefaultTemplate.txt" />
     <None Include="Assets\Shaders\Basic Shader.shader" />
     <None Include="Assets\Shaders\Basic UV.shader" />
     <None Include="Assets\Shaders\Blend One One.shader" />
